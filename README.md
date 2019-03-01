@@ -23,4 +23,3 @@ $ go run example/main.go
 4444 in base62 is:  19G
 19G in base10 is:  4444
 ```
-# base62
